@@ -1,3 +1,3 @@
 # my-project
 
-test input
+test
